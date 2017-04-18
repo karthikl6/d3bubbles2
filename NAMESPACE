@@ -2,4 +2,4 @@
 
 export(d3bubbles2)
 export(d3bubbles2Output)
-export(renderD3bubbles2)
+export(renderd3bubbles2)

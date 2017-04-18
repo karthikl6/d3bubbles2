@@ -1,2 +1,6 @@
-# d3bubbles2
-This is repo from https://github.com/jpmarindiaz/d3bubbles. Changes made for text size inside bubbles when image is redrawn.
+# d3.js bubble chart htmlwidget for R
+
+THIS IS A FORK FROM 
+[https://github.com/jpmarindiaz/d3bubbles](https://github.com/jpmarindiaz/d3bubbles)
+
+Adjusted for text size inside bubbles when refreshed.

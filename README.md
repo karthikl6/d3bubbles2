@@ -3,4 +3,4 @@
 THIS IS A FORK FROM 
 [https://github.com/jpmarindiaz/d3bubbles](https://github.com/jpmarindiaz/d3bubbles)
 
-Adjusted for text size inside bubbles when refreshed.
+Adjusted for text size inside bubbles when browser page is refreshed.
